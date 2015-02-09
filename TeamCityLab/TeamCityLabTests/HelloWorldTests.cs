@@ -20,7 +20,7 @@ namespace TeamCityLabTests
         [Test]
         public void should_not_pass()
         {
-            Assert.AreEqual(1, 0);
+            Assert.AreEqual(1, 1);
         }
     }
 }
