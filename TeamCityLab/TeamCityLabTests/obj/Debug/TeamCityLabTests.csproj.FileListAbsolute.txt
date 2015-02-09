@@ -1,0 +1,7 @@
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\bin\Debug\TeamCityLabTests.dll
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\bin\Debug\TeamCityLabTests.pdb
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\bin\Debug\nunit.framework.dll
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\bin\Debug\nunit.framework.xml
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\obj\Debug\TeamCityLabTests.csprojResolveAssemblyReference.cache
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\obj\Debug\TeamCityLabTests.dll
+C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLabTests\obj\Debug\TeamCityLabTests.pdb
