@@ -1,7 +1,0 @@
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\bin\Debug\TeamCityLab.exe.config
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\bin\Debug\TeamCityLab.exe
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\bin\Debug\TeamCityLab.pdb
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\obj\Debug\TeamCityLab.exe
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\obj\Debug\TeamCityLab.pdb
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\bin\Debug\nunit.framework.dll
-C:\Users\simon.evertsson\git\TeamCityLab\TeamCityLab\TeamCityLab\bin\Debug\nunit.framework.xml
